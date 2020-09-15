@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "One Snickers",
+        "description": "Some description about the product",
+        "price": 20,
+        "source": "/images/1.jpg",
+        "sizes": ["S", "L", "M"],
+        "count": 1
+    }, 
+    {
+        "id": 2,
+        "title": "Two Snickers",
+        "description": "Some description about the product",
+        "price": 25,
+        "source": "/images/2.jpg",
+        "sizes": ["S"],
+        "count": 1
+    }, 
+    {
+        "id": 3,
+        "title": "Three Snickers",
+        "description": "Some description about the product",
+        "price": 14,
+        "source": "/images/3.jpg",
+        "sizes": ["XXL", "L", "XL"],
+        "count": 1
+    }, 
+    {
+        "id": 4,
+        "title": "Four Snickers",
+        "description": "Some description about the product",
+        "price": 28,
+        "source": "/images/4.jpg",
+        "sizes": ["XXL", "XL"],
+        "count": 1
+    }, 
+    {
+        "id": 5,
+        "title": "Five Snickers",
+        "description": "Some description about the product",
+        "price": 30,
+        "source": "/images/5.jpg",
+        "sizes": ["S", "M"],
+        "count": 1
+    }, 
+    {
+        "id": 6,
+        "title": "Six Snickers",
+        "description": "Some description about the product",
+        "price": 25,
+        "source": "/images/6.jpg",
+        "sizes": ["L"],
+        "count": 1
+    }, 
+    {
+        "id": 7,
+        "title": "Seven Snickers",
+        "description": "Some description about the product",
+        "price": 10,
+        "source": "/images/7.jpg",
+        "sizes": ["S"],
+        "count": 1
+    }, 
+    {
+        "id": 8,
+        "title": "Eight Snickers",
+        "description": "Some description about the product",
+        "price": 10,
+        "source": "/images/8.jpg",
+        "sizes": ["S"],
+        "count": 1
+    }
+]
